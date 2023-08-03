@@ -46,5 +46,4 @@ const navigate = useNavigate()
     </div>
     );
 };
-
 export default AddBook;
